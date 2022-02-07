@@ -2,6 +2,9 @@
 
 # Something
 # Web
+## Typescript learning
+### Tutorials
+- https://www.tutorialspoint.com/typescript/typescript_numbers.htm
 # UI
   - Icon : https://kr.piliapp.com/emoji/list/
 # Blockchain
