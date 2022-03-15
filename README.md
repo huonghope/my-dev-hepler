@@ -3,6 +3,8 @@
 # Something
 # Web
 ## Typescript learning
+## React Native
+- Style: https://runebook.dev/ko/docs/react_native/layout-props#marginhorizontal
 ### Tutorials
 - https://www.tutorialspoint.com/typescript/typescript_numbers.htm
 # UI
